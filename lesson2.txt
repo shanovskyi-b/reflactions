@@ -1,3 +1,4 @@
 less2 text
 second string
-last str.
+last str
+new string
