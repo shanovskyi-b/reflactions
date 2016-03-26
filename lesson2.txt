@@ -1,0 +1,3 @@
+less2 text
+second string
+last str.
